@@ -25,6 +25,11 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 */
 
+/**
+Forked by Adolfo Vera. 
+Copyright (c) 2019
+*/
+
 import SystemConfiguration
 import Foundation
 
