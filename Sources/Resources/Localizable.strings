@@ -1,0 +1,9 @@
+/*
+    Descripciones de los estados de la conexión
+
+    Adolfo Vera (c) 2019
+*/
+
+"REACHABILITY_CELLULAR" = "Conectado con la red de datos de su compañía de telefonía móvil";
+"REACHABILITY_WIFI" = "Conectado mediante Wi Fi";
+"REACHABILITY_NONE" = "Sin conexión";
